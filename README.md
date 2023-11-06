@@ -37,10 +37,10 @@ Step 7:Print Approximate Probabilities:
 (i) Print the calculated approximate probabilities for the specified query_variable.<br>
 
 ## Program :
-NAME:-   Kadin Samson L
-
-
-REG NO:- 212221230044
+```
+NAME:- Yuvadarshini S
+REG NO:- 212221230126
+```
 ### Import the necessary libraries
 ```py
 from pgmpy.models import BayesianNetwork
